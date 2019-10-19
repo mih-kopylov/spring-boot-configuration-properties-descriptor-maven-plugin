@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>ru.mihkopylov</groupId>
-    <artifactId>spring-boot-configuration-descriptor-processor-maven-plugin</artifactId>
+    <artifactId>spring-boot-configuration-properties-descriptor-maven-plugin</artifactId>
     <version>0.0.0-SNAPSHOT</version>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -16,7 +16,7 @@
 
     <name>${project.groupId}:${project.artifactId}</name>
     <description>Another maven plugin for release management</description>
-    <url>https://github.com/mih-kopylov/spring-boot-configuration-descriptor-processor-maven-plugin</url>
+    <url>https://github.com/mih-kopylov/spring-boot-configuration-properties-descriptor-maven-plugin</url>
 
     <licenses>
         <license>
@@ -34,10 +34,10 @@
 
     <scm>
         <connection>
-            scm:git:git://github.com/mih-kopylov/spring-boot-configuration-descriptor-processor-maven-plugin.git
+            scm:git:git://github.com/mih-kopylov/spring-boot-configuration-properties-descriptor-maven-plugin.git
         </connection>
         <url>
-            https://github.com/mih-kopylov/spring-boot-configuration-descriptor-processor-maven-plugin/tree/master
+            https://github.com/mih-kopylov/spring-boot-configuration-properties-descriptor-maven-plugin/tree/master
         </url>
     </scm>
 
