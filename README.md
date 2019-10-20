@@ -1,5 +1,8 @@
 # Spring Boot Configuration Descriptor Processor Maven Plugin
 
+[![Maven Central](https://img.shields.io/maven-central/v/ru.mihkopylov/spring-boot-configuration-properties-descriptor-maven-plugin.svg?label=Maven%20Central)](https://search.maven.org/search?q=g:%22ru.mihkopylov%22%20AND%20a:%22spring-boot-configuration-properties-descriptor-maven-plugin%22)
+![License](https://img.shields.io/github/license/mih-kopylov/spring-boot-configuration-properties-descriptor-maven-plugin)
+
 ## Description
 
 When writing a service which has a lot of configuration, it is very useful to have a single document describing all possible properties of the service.
