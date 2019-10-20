@@ -15,7 +15,7 @@
     <packaging>maven-plugin</packaging>
 
     <name>${project.groupId}:${project.artifactId}</name>
-    <description>Another maven plugin for release management</description>
+    <description>Plugin to generate documentation for the Spring Boot application configuration</description>
     <url>https://github.com/mih-kopylov/spring-boot-configuration-properties-descriptor-maven-plugin</url>
 
     <licenses>
